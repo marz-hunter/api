@@ -79,4 +79,4 @@ Note: Unnecessary use of -X or --request, GET is already inferred.
 } [5 bytes data]
 * TLSv1.2 (OUT), TLS alert, Client hello (1):
 } [2 bytes data]
-  <email>siteiogmail.com</email>
+  <email>siteio@gmail.com</email>
